@@ -1,1 +1,21 @@
-<h1>Cadastre-se!</h1>
+<div class="auth-container">
+    <h2>Crie sua conta gratuitamente!</h2>
+    <form action="/register" method="POST">
+    <div class="form-control">
+        <label for="name">Nome:</label>
+        <input type="text" name="name" placeholder="Digite o seu nome" required>
+
+        <label for="name">E-mail:</label>
+        <input type="email" name="email" placeholder="Digite o seu e-mail" required>
+
+        <label for="name">Senha:</label>
+        <input type="password" name="password" placeholder="Digite a sua senha" required>
+
+        <label for="name">Confirme sua senha:</label>
+        <input type="password" name="confirmPassword" placeholder="Digite a sua senha novamente" required>
+    </div>
+    <input type="submit" value="Cadastre-se">
+    <br>
+    <a href="/Login">Já possui conta?</a>
+    </form>
+</div>

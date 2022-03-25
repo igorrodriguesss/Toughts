@@ -45,8 +45,8 @@
   /* CONTAINER */
   .message {
     padding: 1em;
-    color: #004085;
-    background-color: #cce5ff;
+    color: white;
+    background-color: #f6982d;
     border: 1px soli d#b8daff;
     border-radius: 5px;
     text-align: center;
@@ -72,7 +72,7 @@
     color: #fff;
     border-left: 4px solid #f6982d;
     padding: 0.3em;
-    width: 100px;
+    /*width: 100px; */
   }
   
   .auth-container a {
@@ -88,6 +88,7 @@
   .form-control label {
     font-weight: bold;
     margin-bottom: 0.5em;
+    margin-top: 0.5em;
   }
   
   .form-control input,
@@ -114,8 +115,9 @@
   
   form input[type='submit']:hover,
   .btn:hover {
-    background-color: #f6982d;
+    background-color: transparent;
     color: #fff;
+    border: 2px solid #f6982d;
   }
   
   /* DASHBOARD */

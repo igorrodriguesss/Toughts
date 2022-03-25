@@ -74,6 +74,6 @@ app.get('/', ToughtController.showToughts)
 conn
     .sync({})
     .then(() => {
-        app.listen(3000)
+        app.listen(4000)
     })
     .catch((err) => {console.log(err)});
