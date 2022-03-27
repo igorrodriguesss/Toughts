@@ -45,13 +45,13 @@
   /* CONTAINER */
   .message {
     padding: 1em;
-    color: white;
-    background-color: #f6982d;
+    color: black;
+    background-color: #e27c07;
     border: 1px soli d#b8daff;
     border-radius: 5px;
     text-align: center;
-    margin: 0 auto 2em;
-    max-width: 60%;
+    margin: 0 auto 1em;
+    max-width: 50%;
   }
   
   .container {
@@ -68,6 +68,7 @@
   }
   
   .auth-container h2 {
+    margin-top: 15px;
     margin-bottom: 1em;
     color: #fff;
     border-left: 4px solid #f6982d;

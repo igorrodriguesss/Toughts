@@ -17,11 +17,18 @@
         <a href="/" id="logo">
         <img src="/img/toughts_logo.png" alt="">
         </a>
+
         <!-- URLS --> 
         <ul>
             <li><a href="/">Pensamentos</a></li>
-            <li><a href="/login">Entrar</a></li>
-            <li><a href="/register">Cadastre-se</a></li>
+            {{#if session.userid}}
+                <li><a href="/toughts/dashboard">Dashboard</a></li>
+                <li><a href="/logout">Sair</a></li>
+                {{else}}
+                <li><a href="/login">Entrar</a></li>
+                <li><a href="/register">Cadastre-se</a></li>
+            {{/if}}
+
         </ul>
         </nav
         <!-- Mensagem do sistema -->
