@@ -81,11 +81,6 @@ module.exports = class UserController {
         // initialize session
         req.session.userid = user.id
 
-        // console.log('salvou dado')
-        // console.log(req.session.userid)
-
-        req.session.userid = user.id
-
         req.flash('message', 'Cadastro realizado com sucesso!')
 
         req.session.save(() => {

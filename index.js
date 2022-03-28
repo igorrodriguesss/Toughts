@@ -69,6 +69,7 @@ app.use((req, res, next) => {
 
 app.use("/toughts", toughtsRoutes)
 app.use("/", authRoutes)
+
 app.get('/', ToughtController.showToughts)  
 
 conn
@@ -76,4 +77,4 @@ conn
     .then(() => {
         app.listen(4000)
     })
-    .catch((err) => {console.log(err)});
+    .catch((err) => { console.log(err) });
