@@ -152,7 +152,6 @@
   .dashboard .label {
     font-weight: bold;
     color: #f6982d;
-    margin-right: 2em;
   }
   
   .dashboard .actions {
@@ -161,7 +160,7 @@
   
   .dashboard .actions .btn {
     color: #fff;
-    border-color: #fff;
+    border-color: #f6982d;
     margin: 0 0.5em;
   }
   

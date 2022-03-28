@@ -24,6 +24,13 @@
 
             const toughts = user.Toughts.map((result) => result.dataValues)
 
+            // Verificando se existe tarefas
+            let emptyToughts = false
+
+            if(toughts.length === 0) {
+                emptyToughts = true
+            }
+
             res.render('toughts/dashboard', {toughts} )
         }
 
@@ -47,6 +54,23 @@
                 })
                 } catch (err) {
                     console.log('Erro:' + error)
+                }
+            }
+
+            static async removeTought(req, res) {
+                const id = req.body.id
+                const UserId = req.session.userid
+
+                try {
+                    await Tought.destroy({where: {id: id, UserId: UserId}})
+
+                    req.flash('message', 'Pensamento excluido com sucesso!')
+                    
+                    req.session.save(() => {
+                        res.redirect('/toughts/dashboard')
+                    })
+                } catch(error) {    
+                    console.log('Aconteceu um erro' + error)
                 }
             }
         }
