@@ -15,5 +15,7 @@
 "sequelize": "^6.17.0" <br>
 "session-file-store": "^1.5.0 <br> 
 
-#### Projeto
+### Objetivo do projeto: 
+
+<p> Objetivo do projeto consistiu em criar uma pequena aplicação Web que possibilitasse a criação de pensamentos e que fosse possível ser compartilhado entre diversas pessoas</p>
 
