@@ -36,9 +36,7 @@
 ### Como subir a aplicação: 
 
 <p> É necessario possuir algum programa que emule um servidor, no meu caso utilizei XAMPP<p> <br> 
- 
 <p>Criar um banco de dados SQL chamado de toughts<p> <br> 
-
 <p>Ao abrir o projeto em algum editor de texto, rodar comando <strong>npm install</strong></p> <br>
 <p>Em seguida</strong> npm start </strong>
 <p> 
