@@ -39,6 +39,6 @@
 <p> - Ao abrir o projeto em algum editor de texto, rodar comando <strong>npm install</strong></p>
 <p> - Em seguida<strong> npm start</strong>  
 <hr>
-### Banco de Dados
+#### Banco de Dados
 <p> Caso você tenha setado o seu banco de dados com senha => 
 <p> - É necessario ir na pasta <strong>connection/conn.js</strong> e mudar as configurações do banco para ficarem de acordo com suas configurações </p> 
