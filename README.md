@@ -37,9 +37,8 @@
 <p> - É necessario possuir algum programa que emule um servidor, no meu caso utilizei XAMPP<p>
 <p> - Criar um banco de dados SQL chamado de toughts<p> 
 <p> - Ao abrir o projeto em algum editor de texto, rodar comando <strong>npm install</strong></p>
-<p> - Em seguida</strong> npm start </strong>
-  
-  
+<p> - Em seguida<strong> npm start</strong>  
+<hr>
 ### Banco de Dados
 <p> Caso você tenha setado o seu banco de dados com senha => 
-<p> - É necessario ir na pasta connection/conn.js e mudar as configurações do banco para ficarem de acordo com suas configurações </p> 
+<p> - É necessario ir na pasta <strong>connection/conn.js</strong> e mudar as configurações do banco para ficarem de acordo com suas configurações </p> 
