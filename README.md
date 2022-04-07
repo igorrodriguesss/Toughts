@@ -23,6 +23,23 @@
 
 <hr>
 
-### Como subir a aplicação em seu computador: 
-<h4> É necessario possuir algum programa que emule um servidor, no meu caso utilizo XAMPP</h3>
-<h4>Criar um banco de dados SQL chamado de toughts</h4>
+### Requisitos para subir aplicação:  
+<p>XAMPP<p> <br> 
+ 
+<p>Banco de dados SQL<p> <br> 
+
+<p>Instalar NodeJs</p> <br>
+
+ <hr>
+ 
+
+### Como subir a aplicação: 
+
+<p> É necessario possuir algum programa que emule um servidor, no meu caso utilizei XAMPP<p> <br> 
+ 
+<p>Criar um banco de dados SQL chamado de toughts<p> <br> 
+
+<p>Ao abrir o projeto em algum editor de texto, rodar comando <strong>npm install</strong></p> <br>
+<p>Em seguida</strong> npm start </strong>
+<p> 
+  
