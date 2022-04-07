@@ -1,7 +1,7 @@
 ### Dependencias usadas no projeto.
 
-"bcryptjs": "^2.4.3"
-"connect-flash": "^0.1.1"
+"bcryptjs": "^2.4.3" <br>
+"connect-flash": "^0.1.1" <br>
 "cookie-parser": "^1.4.6"
 "cookie-session": "^2.0.0"
 "express": "^4.17.3"
