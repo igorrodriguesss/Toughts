@@ -24,5 +24,5 @@
 <hr>
 
 ### Como subir a aplicação em seu computador: 
-<h3> É necessario possuir algum programa que emule um servidor, no meu caso utilizo XAMPP;
-Criar um banco de dados SQL chamado de toughts;
+<h4> É necessario possuir algum programa que emule um servidor, no meu caso utilizo XAMPP</h3>
+<h4>Criar um banco de dados SQL chamado de toughts</h4>
