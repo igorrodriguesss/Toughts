@@ -22,7 +22,9 @@
 <img src="https://user-images.githubusercontent.com/48895884/162349470-aa0e8025-011f-4890-b8d8-b1aaebedb37f.png">
 <p>Tela de Cadastro</p>
 <img src="https://user-images.githubusercontent.com/48895884/162349768-9a1636cc-f793-494a-bfd9-ad1756a48918.png">
-
+<p>Tela de Dashboard ao se cadastrar</p>
+<img src="https://user-images.githubusercontent.com/48895884/162349923-de9f0474-e108-4917-8e56-30b958bfd88b.png">
+<p>Tela para criar pensamento</p>
 
 ### Objetivo do projeto: 
 
