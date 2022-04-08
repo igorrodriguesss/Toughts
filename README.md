@@ -17,6 +17,11 @@
 
 <hr>
 
+<h3>Telas do Projeto</h3>
+<img src="https://user-images.githubusercontent.com/48895884/162349470-aa0e8025-011f-4890-b8d8-b1aaebedb37f.png">
+
+
+
 ### Objetivo do projeto: 
 
 <p> Objetivo do projeto consistiu em criar uma pequena aplicação Web que possibilitasse a criação de pensamentos e que fosse possível ser compartilhado entre diversas pessoas</p>
