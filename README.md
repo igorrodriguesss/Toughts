@@ -27,8 +27,9 @@
 <p>Tela para criar pensamento</p>
 <img src="https://user-images.githubusercontent.com/48895884/162350027-55b4e450-0b8e-47ec-93be-795292613dfb.png">
 <p>Tela para administrar meus pensamentos criados</p>
+<img src="https://user-images.githubusercontent.com/48895884/162350148-8ead517c-5c64-4cdf-a0dd-1eb2f1b1c893.png">
+<p>Tela para ver pensamentos de todos os usuários</p>
 <img src="">
-
 ### Objetivo do projeto: 
 
 <p> Objetivo do projeto consistiu em criar uma pequena aplicação Web que possibilitasse a criação de pensamentos e que fosse possível ser compartilhado entre diversas pessoas</p>
