@@ -1,7 +1,7 @@
 ## Projeto Toughts 
 
 
-<h3> Dependencias usadas no projeto.</h3>
+<h3> Dependências usadas no projeto.</h3>
 
 bcryptjs<br>
 connect-flash<br>
