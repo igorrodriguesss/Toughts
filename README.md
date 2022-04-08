@@ -18,8 +18,10 @@
 <hr>
 
 <h3>Telas do Projeto</h3>
+<p> Tela de Dashboard
 <img src="https://user-images.githubusercontent.com/48895884/162349470-aa0e8025-011f-4890-b8d8-b1aaebedb37f.png">
-
+<p>Tela de Cadastro</p>
+<img src="https://user-images.githubusercontent.com/48895884/162349768-9a1636cc-f793-494a-bfd9-ad1756a48918.png">
 
 
 ### Objetivo do projeto: 
