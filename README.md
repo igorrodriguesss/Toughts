@@ -20,6 +20,8 @@
 <h3>Telas do Projeto</h3>
 <p> Tela de Dashboard
 <img src="https://user-images.githubusercontent.com/48895884/162349470-aa0e8025-011f-4890-b8d8-b1aaebedb37f.png">
+ <p>Tela de login</p>
+ <img src="">
 <p>Tela de Cadastro</p>
 <img src="https://user-images.githubusercontent.com/48895884/162349768-9a1636cc-f793-494a-bfd9-ad1756a48918.png">
 <p>Tela de Dashboard ao se cadastrar</p>
@@ -29,7 +31,7 @@
 <p>Tela para administrar meus pensamentos criados</p>
 <img src="https://user-images.githubusercontent.com/48895884/162350148-8ead517c-5c64-4cdf-a0dd-1eb2f1b1c893.png">
 <p>Tela para ver pensamentos de todos os usuários</p>
-<img src="">
+<img src="https://user-images.githubusercontent.com/48895884/162350263-e2aa0b78-84fd-4ec8-87ac-b860307c9599.png">
 ### Objetivo do projeto: 
 
 <p> Objetivo do projeto consistiu em criar uma pequena aplicação Web que possibilitasse a criação de pensamentos e que fosse possível ser compartilhado entre diversas pessoas</p>
