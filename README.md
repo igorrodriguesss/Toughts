@@ -25,6 +25,9 @@
 <p>Tela de Dashboard ao se cadastrar</p>
 <img src="https://user-images.githubusercontent.com/48895884/162349923-de9f0474-e108-4917-8e56-30b958bfd88b.png">
 <p>Tela para criar pensamento</p>
+<img src="https://user-images.githubusercontent.com/48895884/162350027-55b4e450-0b8e-47ec-93be-795292613dfb.png">
+<p>Tela para administrar meus pensamentos criados</p>
+<img src="">
 
 ### Objetivo do projeto: 
 
