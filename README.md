@@ -1,19 +1,19 @@
 ## Projeto Toughts 
 
 
-### Dependencias usadas no projeto.
+<h3> Dependencias usadas no projeto.</h3>
 
-"bcryptjs": "^2.4.3" <br>
-"connect-flash": "^0.1.1" <br>
-"cookie-parser": "^1.4.6" <br>
-"cookie-session": "^2.0.0" <br>
-"express": "^4.17.3" <br>
-"express-flash": "^0.0.2" <br>
-"express-session": "^1.17.2" <br>
-"mysql2": "^2.3.3" <br>
-"nodemon": "^2.0.15" <br> 
-"sequelize": "^6.17.0" <br>
-"session-file-store": "^1.5.0 <br> 
+bcryptjs<br>
+connect-flash<br>
+cookie-parser <br>
+cookie-session <br>
+express <br>
+express-flash<br>
+express-session<br>
+mysql2<br>
+nodemon <br> 
+sequelize <br>
+session-file-store <br> 
 
 <hr>
 
@@ -21,7 +21,7 @@
 <p> Tela de Dashboard
 <img src="https://user-images.githubusercontent.com/48895884/162349470-aa0e8025-011f-4890-b8d8-b1aaebedb37f.png">
 <p>Tela de login</p>
-<img src="ttps://user-images.githubusercontent.com/48895884/162350438-7cabeb0a-610d-4ebf-a988-b59eddfff247.png">
+<img src="https://user-images.githubusercontent.com/48895884/162350669-ea80b0da-f37a-49c6-8062-462d3e80c5a1.png">
 <p>Tela de Cadastro</p>
 <img src="https://user-images.githubusercontent.com/48895884/162349768-9a1636cc-f793-494a-bfd9-ad1756a48918.png">
 <p>Tela de Dashboard ao se cadastrar</p>
